@@ -22,8 +22,7 @@ def uf(estado):
         return 'CE (Ceará)'
     if estado=='24':
         return 'RN (Rio Grande do Norte)'
-    elif estado=='25':
-        return 'PB (Paraíba)'
+
     if estado=='26':
         return 'PE (Pernambuco)'
     elif estado=='27':
@@ -50,5 +49,3 @@ def uf(estado):
         return 'MS (Mato Grosso do Sul)'
     elif estado=='52':
         return 'GO (Goiás)'
-    if estado=='53':
-        return 'DF (Distrito Federal)'
